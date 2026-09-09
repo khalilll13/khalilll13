@@ -72,13 +72,10 @@ Hi ! I'm Khalil 👋<br><br>I am a passionate computer engineering student at ES
 
 <br>
 
-<h1 align="center">📊 GitHub Stats</h1>
+<h1>📊 GitHub Stats</h1>
 
 <p align="center">
 <img src="https://github-readme-stats.shion.dev/api?username=khalilll13&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=khalilll13&theme=dark&hide_border=false" />
 </p>
 <p align="center">
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=khalilll13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
