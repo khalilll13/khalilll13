@@ -72,6 +72,43 @@ Hi ! I'm Khalil 👋<br><br>I am a passionate computer engineering student at ES
 
 <br>
 
+<h1>🚀 Recent Projects</h1>
+
+**🔐 Open-Source SOC Lab Simulation** *(Jul 2026 – Aug 2026)*<br>
+Built a fully simulated Security Operations Center from scratch using 10+ open-source tools (Wazuh, Zabbix, n8n, Suricata, osTicket, MISP, Nuclei, OpenCVE, GoPhish) across a multi-VM VMware environment. Validated a full detection chain: a simulated Kali attack triggered Suricata detection, Wazuh correlation, and automated n8n response.
+
+<br>
+
+**🎨 Artium – Art & Culture Digital Ecosystem** *(Jan 2026 – May 2026)*<br>
+A multi-platform web/desktop app connecting users to events, digital art, music, and books, built in a 6-person Agile/Scrum team at ESPRIT. Led the Event Management module with smart QR ticketing. Selected among the university's best projects for the Bal De Projet.
+
+<br>
+
+**📱 Artium Mobile** *(Mar 2026 – May 2026)*<br>
+Extended Artium into a cross-platform mobile app with FlutterFlow. Led the Event Management module again, implementing in-app digital tickets and real-time QR validation with REST API integration.
+
+<br>
+
+**📚 EduRoom – Online Education & Learning Management Platform**<br>
+An e-learning platform managing users, courses, training programs, and reclamations — built with PHP and HTML for an organized, scalable academic administration system.
+
+<br>
+
+**🌐 Enterprise Network Infrastructure Deployment**<br>
+Designed and deployed a multiservice enterprise network for a simulated company using GNS3 — OSPF backbone routing, VLSM addressing, DHCP/NAT, VPN, and enterprise service deployment (Web, Database, NFS, Monitoring).
+
+<br>
+
+**🦠 Maze of Viruses – 2D Healthcare-Themed Game**<br>
+A 2D maze game built with SDL 1.2 on Linux, where players dodge viruses and collect vaccinations — combining game logic and 2D graphics with an educational health-awareness theme.
+
+<br>
+
+**💼 Smart Consult Pro – Desktop Management Application**<br>
+A C++/Qt desktop app for consulting firm management — centralized handling of clients, employees, consultants, projects, and training programs with clean OOP architecture and database integration.
+
+<br>
+
 <h1>📊 GitHub Stats</h1>
 
 <p align="center">
