@@ -14,7 +14,7 @@ Hi ! I'm Khalil 👋<br><br>I am a passionate Cloud & Cybersecurity Engineering 
 
 <br>
 
-h1>💻 Tech Stack</h1>
+<h1>💻 Tech Stack</h1>
 
 Languages
 
