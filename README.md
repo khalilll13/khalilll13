@@ -1,12 +1,12 @@
-<h1 align="center">💫 About Me</h1>
+<h1>💫 About Me</h1>
 
 Hi ! I'm Khalil 👋<br><br>I am a passionate computer engineering student at ESPRIT with hands-on experience across IT support, customer service, and cybersecurity. Most recently, I designed and deployed a fully simulated, open-source SOC lab as part of my internship at NextStep (MSSP), covering threat detection, automation, and multi-client security operations.<br> <br>Skilled in technical troubleshooting, IT support, and system administration, I enjoy solving complex problems and building practical, reliable solutions whether that means supporting end users, or designing an intuitive interface.<br><br>Alongside my academic work, I've gained experience in interactive design, digital tools, and team collaboration, and I'm eager to keep expanding my expertise in cybersecurity, software development, and IT solutions.<br> <br>Beyond technology, I am an active badminton coach and player, reflecting my commitment to discipline, teamwork, and personal growth.
 
 <br>
 
-<h1 align="center">🌐 Socials</h1>
+<h1>🌐 Socials</h1>
 
-<p align="center">
+<p>
 <a href="https://instagram.com/e.khalilll" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 <a href="https://linkedin.com/in/e-khalilll" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 <a href="mailto:khalil.elmnari@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
@@ -14,9 +14,9 @@ Hi ! I'm Khalil 👋<br><br>I am a passionate computer engineering student at ES
 
 <br>
 
-<h1 align="center">💻 Tech Stack</h1>
+<h1>💻 Tech Stack</h1>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
